@@ -1,0 +1,28 @@
+{
+  "name": "bloga",
+  "version": "1.0.0",
+  "description": "my first blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhthang/BLOGA.git"
+  },
+  "keywords": [
+    "bloga"
+  ],
+  "author": "trinhthang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinhthang/BLOGA/issues"
+  },
+  "homepage": "https://github.com/trinhthang/BLOGA#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.14",
+    "morgan": "^1.10.0"
+  }
+}
